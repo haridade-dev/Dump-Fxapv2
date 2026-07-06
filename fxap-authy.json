@@ -1,0 +1,43 @@
+{
+  "enabled": true,
+  "server_name": "Dump-FxapV2",
+  "authorized_by": "Hari-Development",
+  "message": "Licença inválida ou IP não autorizado! Contate o suporte.",
+  "licenses": [
+    {
+      "client": "Hari - Dono",
+      "key": "lic-owner-001",
+      "type": "owner",
+      "expires_in": "∞",
+      "active": true,
+      "allowed_ips": [
+        "187.101.163.59",
+        "2804:7f0:9c82:428c:8ca3:8ea:a1cc:4ae1"
+      ]
+    },
+    {
+      "client": "Mineiro - VIP 100 coins",
+      "key": "lic-mineiro-001",
+      "type": "lifetime",
+      "expires_in": "∞",
+      "active": true,
+      "allowed_ips": ["200.150.30.45"]
+    },
+    {
+      "client": "Monik - VIP 100 coins",
+      "key": "lic-monik-001",
+      "type": "lifetime",
+      "expires_in": "∞",
+      "active": true,
+      "allowed_ips": ["200.150.30.46"]
+    },
+    {
+      "client": "Ana Costa - FREE Básico",
+      "key": "lic-ana-001",
+      "type": "free",
+      "expires_in": "30",
+      "active": true,
+      "allowed_ips": ["192.168.1.100"]
+    }
+  ]
+}
