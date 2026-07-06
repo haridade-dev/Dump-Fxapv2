@@ -9,7 +9,7 @@
       "key": "lic-owner-001",
       "type": "owner",
       "expires_in": "∞",
-      "active": false,
+      "active": true,
       "allowed_ips": [
         "187.101.163.59",
         "2804:7f0:9c82:428c:8ca3:8ea:a1cc:4ae1"
