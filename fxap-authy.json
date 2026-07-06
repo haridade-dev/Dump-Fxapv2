@@ -21,7 +21,10 @@
       "type": "lifetime",
       "expires_in": "∞",
       "active": true,
-      "allowed_ips": ["200.150.30.45"]
+      "allowed_ips": [
+        "seu ip",
+        "seu ip"
+      ]
     },
     {
       "client": "Monik - VIP 100 coins",
@@ -29,15 +32,21 @@
       "type": "lifetime",
       "expires_in": "∞",
       "active": true,
-      "allowed_ips": ["200.150.30.46"]
+      "allowed_ips": [
+        "seu ip",
+        "seu ip"
+      ]
     },
     {
-      "client": "Ana Costa - FREE Básico",
-      "key": "lic-ana-001",
+      "client": "Viper - FREE Básico",
+      "key": "lic-free-001",
       "type": "free",
       "expires_in": "30",
       "active": true,
-      "allowed_ips": ["192.168.1.100"]
+        "allowed_ips": [
+        "187.62.85.9",
+        "2804:68c8:1480:c201:18dc:401a:9cb7:cd25"
+      ]
     }
   ]
 }
