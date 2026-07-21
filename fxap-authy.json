@@ -42,7 +42,7 @@
       "key": "lic-free-001",
       "type": "free",
       "expires_in": "30",
-      "active": true,
+      "active": false,
         "allowed_ips": [
         "187.62.85.33",
         "2804:68c8:1480:c201:259a:2315:7ddc:a7c5"
